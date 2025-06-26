@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shrushti Patil</h1>
-<h3 align="center">Full Stack Web Developer | Backend Specialist | React Enthusiast</h3>
+<h1 align="center">Hey 👋 I’m Shrushti Patil</h1>
+<h3 align="center">Exploring tech, building projects, and learning something new every day 🚀</h3>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shrushtipatil58/" target="_blank">
