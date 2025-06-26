@@ -77,13 +77,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrushti58&show_icons=true&theme=gruvbox&hide_border=true&border_radius=12" width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=Shrushti58&theme=gruvbox&hide_border=true&border_radius=12" width="47%"/>
+
+  <a href="https://github.com/Shrushti58">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shrushti58&show_icons=true&theme=gruvbox&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" width="47%" alt="Shrushti's GitHub Stats"/>
+  </a>
+  
+  <a href="https://github.com/Shrushti58">
+    <img src="https://streak-stats.demolab.com?user=Shrushti58&theme=gruvbox&hide_border=true&border_radius=12" width="47%" alt="Shrushti's GitHub Streak"/>
+  </a>
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti58&layout=compact&theme=gruvbox&hide_border=true&border_radius=12" width="50%"/>
+
+  <a href="https://github.com/Shrushti58">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti58&layout=compact&theme=gruvbox&hide_border=true&border_radius=12" width="50%" alt="Shrushti's Top Languages"/>
+  </a>
+
 </div>
+>
 
 ---
 
