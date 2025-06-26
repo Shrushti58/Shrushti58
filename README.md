@@ -57,15 +57,22 @@
 ## 📂 Projects
 
 ### 🔹 [e-Bachat Gat](https://github.com/Shrushti58/e-bachat-gat)  
-A role-based savings and loan platform for self-help groups.
-
-### 🔹 [SPPU Code Portal](https://github.com/Shrushti58/sppu-code-portal)  
-Automated submission, review & approval system for practical codes.
-
-### 🔹 [Sorting Visualizer](https://github.com/Shrushti58/sorting-visualizer)  
-Animated visualization of sorting algorithms with user input support.
+💸 A digital backbone for self-help groups — manage members, track savings, handle loans with role-based access (President, Treasurer, Secretary, Member).  
+🧠 Inspired by real-world community finance models. Built with **MERN stack** & ❤️ for impact.
 
 ---
+
+### 🔹 [SPPU Code Portal](https://github.com/Shrushti58/sppu-code-portal)  
+📘 No more messy code submissions! This portal streamlines **student practical uploads**, adds an **admin review workflow**, and pushes only **approved code** to GitHub.  
+🚀 Think of it as the GitHub Classroom — but made just for **SPPU practicals**.
+
+---
+
+### 🔹 [Sorting Visualizer](https://github.com/Shrushti58/sorting-visualizer)  
+📊 Watch algorithms come to life! An animated, customizable visualizer for sorting techniques like Bubble, Selection, Merge & Quick Sort.  
+✨ Built for learning, loved by logic. Supports real-time user input, comparisons, swaps, and complexity insights.
+
+
 
 ## 📊 GitHub Stats
 
