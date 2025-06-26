@@ -98,7 +98,7 @@
 
 </div>
 
-<br/>
+
 ---
 
 ## 🏆 Achievements
@@ -109,8 +109,8 @@
 
 ## 💬 Quote I Live By
 
-> “First, solve the problem. Then, write the code.”  
-> — John Johnson
+> “Think like a user. Solve like an engineer. Build like an artist.”
+
 
 ---
 
