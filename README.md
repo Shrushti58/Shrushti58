@@ -1,74 +1,22 @@
-# About Me
+<!-- Header with animated typing effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Hello+World!+👋;I'm+Shrushti+Patil;Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</h1>
 
-# 👋 Hi there, I'm **Shrushti Patil** 
+<!-- Profile summary with badges -->
+<div align="center">
+  
+  [![Website](https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yourprofile/)
+  
+</div>
 
-`🚀 Full Stack Developer | 🧠 AI Explorer | 🎨 Digital Artist`
+<!-- About section with animated divider -->
+## 🌟 About Me
 
 ```diff
-+ Currently crafting the future with code at Quantum Innovations
-! Building responsive UIs that dance and databases that never forget
-# Open to collaborating on projects that push boundaries
-
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](your-linkedin-url)
-[![Instagram](https://img.shields.io/badge/Instagram-YourProfile-pink)](your-instagram-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](your-portfolio-url)
-
-## Tech Stack
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
----
-
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## Achievements
-
-- Your Achievement 1
-- Your Achievement 2
-- Your Achievement 3
-
----
-
-## Dev Quote
-
-> "Your favorite quote here"
-> - Author
-
----
-
-![Random Dev Meme](https://random-memer.herokuapp.com/)
-
----
-
-**GitHub Activity**
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)## Hi there 👋
-
-<!--
-**Shrushti58/Shrushti58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Passionate developer creating digital experiences
+! Currently building AI-powered applications at Company
+# Open for collaborations and interesting projects
