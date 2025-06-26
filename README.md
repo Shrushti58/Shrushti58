@@ -34,3 +34,5 @@ Frontend:         React, Tailwind CSS
 Backend:          Node.js, Express.js
 Database:         MongoDB, MySQL
 Tools & Others:   Git, GitHub, Cloudinary, Postman, Vercel
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shrushti58&show_icons=true&theme=radical" width="47%" /> <img src="https://streak-stats.demolab.com/?user=Shrushti58&theme=radical" width="47%" /> </p>
