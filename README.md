@@ -31,15 +31,26 @@
 
 ## 🛠 Tech Stack
 
-**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss)
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
 
-**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Database:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+**Database**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel)
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
