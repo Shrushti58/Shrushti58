@@ -76,24 +76,22 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrushti58&show_icons=true&theme=gruvbox" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=Shrushti58&theme=gruvbox" width="47%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrushti58&show_icons=true&theme=gruvbox&hide_border=true&border_radius=12" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=Shrushti58&theme=gruvbox&hide_border=true&border_radius=12" width="47%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti58&layout=compact&theme=gruvbox" width="50%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti58&layout=compact&theme=gruvbox&hide_border=true&border_radius=12" width="50%"/>
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shrushti58&theme=gruvbox&no-bg=true&no-frame=true&column=6" />
-</p>
-
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shrushti58&theme=gruvbox&no-bg=true&no-frame=true&column=6"/>
+</div>
 
 ## 💬 Quote I Live By
 
