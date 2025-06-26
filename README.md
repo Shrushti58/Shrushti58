@@ -1,11 +1,13 @@
 # About Me
 
-Hi I'm **Your Name** — a passionate Full Stack Web Developer and AI enthusiast from Your Location.
+# 👋 Hi there, I'm **Shrushti Patil** 
 
-- Currently working on [your current focus]
-- Actively contributing to projects using [your tech stack]
-- [Your achievements/awards]
-- Open to collaboration on innovative projects — feel free to connect
+`🚀 Full Stack Developer | 🧠 AI Explorer | 🎨 Digital Artist`
+
+```diff
++ Currently crafting the future with code at Quantum Innovations
+! Building responsive UIs that dance and databases that never forget
+# Open to collaborating on projects that push boundaries
 
 ## Socials
 
