@@ -63,13 +63,20 @@
 
 ---
 
+### 🔹 [Gramvartha](https://github.com/Shrushti58/gramvartha)
+
+🏡 A digital bridge between villagers and local governance — share notices, GRs, schemes, and meeting updates in one place.
+🌐 Built with **MERN stack** & ❤️ to promote transparency and digital empowerment in rural India.
+
+---
+
 ### 🔹 [SPPU Code Portal](https://github.com/Shrushti58/sppucodeportalproject)
 📘 No more messy code submissions! This portal streamlines **student practical uploads**, adds an **admin review workflow**, and pushes only **approved code** to GitHub.  
 🚀 Think of it as the GitHub Classroom — but made just for **SPPU practicals**.
 
 ---
 
-### 🔹 [Sorting Visualizer]((https://github.com/Shrushti58/InteractiveSorter)
+### 🔹 [Sorting Visualizer](https://github.com/Shrushti58/InteractiveSorter)
 📊 Watch algorithms come to life! An animated, customizable visualizer for sorting techniques like Bubble, Selection, Merge & Quick Sort.  
 ✨ Built for learning, loved by logic. Supports real-time user input, comparisons, swaps, and complexity insights.
 
