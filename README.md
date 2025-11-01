@@ -17,18 +17,8 @@
 ---
 
 ## 🚀 About Me
-🎓 Engineering my way through tech at DY Patil College of Engineering , Akurdi – Class of 2027
-
-💡 Turning ideas into impact through projects like e-Bachat Gat & SPPU Code Portal
-
-🧠 Fluent in: React spells, Node.js scrolls, MongoDB maps, and Cloudinary clouds ☁️
-
-🔍 Currently exploring: the GitHub multiverse, designing for scale, and mastering the art of beautiful UIs
-
-🛠️ Side quests: building products people love, debugging life one semicolon at a time
-
-✨ Motto:
-“Building what matters. Breaking what limits.”
+💡 Turning ideas into impact through real-world MERN projects
+✨ Building what matters, coding with purpose.
 
 ## 🛠 Tech Stack
 
