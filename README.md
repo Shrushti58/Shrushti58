@@ -18,10 +18,10 @@
 
 ## 🚀 About Me
 
-🎓 CSE student at **DY Patil College of Engineering, Akurdi (Class of 2027)**
-💡 Passionate about building real-world solutions like **e-Bachat Gat** & **Gramvartha**
-🧠 Exploring the **MERN stack**, **UI design**, and **scalable systems**
-✨ *Creating impact through code that connects people.*
+* 🎓 CSE student at **DY Patil College of Engineering, Akurdi (Class of 2027)**
+* 💡 Passionate about building real-world solutions like **e-Bachat Gat** & **Gramvartha**
+* 🧠 Exploring the **MERN stack**, **UI design**, and **scalable systems**
+* ✨ *Creating impact through code that connects people.*
 
 ---
 
