@@ -17,8 +17,13 @@
 ---
 
 ## 🚀 About Me
-💡 Turning ideas into impact through real-world MERN projects
-✨ Building what matters, coding with purpose.
+
+🎓 CSE student at **DY Patil College of Engineering, Akurdi (Class of 2027)**
+💡 Passionate about building real-world solutions like **e-Bachat Gat** & **Gramvartha**
+🧠 Exploring the **MERN stack**, **UI design**, and **scalable systems**
+✨ *Creating impact through code that connects people.*
+
+---
 
 ## 🛠 Tech Stack
 
