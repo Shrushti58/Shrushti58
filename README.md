@@ -25,9 +25,7 @@
 
 ---
 
-Here is the updated **Tech Stack section** with **Java** and **Spring Boot** added in the same badge format:
 
----
 
 ## 🛠 Tech Stack
 
