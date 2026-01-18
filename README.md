@@ -1,237 +1,131 @@
-<div align="center">
+# Shrushti Patil
 
-# 🌟 Shrushti Patil
+Full-Stack Developer specializing in MERN Stack | Computer Engineering Student
 
-### *"Turning Code into Impact, One Line at a Time"*
+📍 Pune, Maharashtra | 📧 shrushtipatil0508@gmail.com | [LinkedIn](https://linkedin.com/in/shrushtipatil58) | [GitHub](https://github.com/Shrushti58)
 
-```javascript
-const shrushti = {
-    location: "Pune, Maharashtra 🇮🇳",
-    mission: "Building technology that bridges the digital divide",
-    currentFocus: "Empowering rural India through MERN Stack",
-    lifePhilosophy: "Dream big, code bigger 🚀"
-};
-```
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrushtipatil58)
-[![GitHub](https://img.shields.io/badge/Follow_Journey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrushti58)
-[![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrushtipatil0508@gmail.com)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Shrushti58&color=blueviolet&style=flat-square)
 
 ---
 
-## 🎯 My Journey
+## About Me
 
-> **From 93.60% in Diploma to 9.59 CGPA in Engineering**  
-> Not just grades—but a testament to consistency, passion, and relentless pursuit of excellence.
+I'm a Computer Engineering student at Dr. D. Y. Patil College of Engineering with a focus on building practical web applications that solve real-world problems. My work centers on creating accessible technology solutions for rural governance, financial inclusion, and civic engagement.
 
-I'm not just a developer; I'm a **problem solver with purpose**. While others see code, I see opportunities to transform lives. My projects aren't just assignments—they're **solutions** for real people facing real challenges.
-
-### 🔥 What Drives Me?
-
-```
-🏘️ Rural Empowerment     → Building digital bridges to remote villages
-💰 Financial Inclusion    → Digitizing traditional savings systems
-🏛️ Civic Engagement       → Giving citizens a voice through technology
-🎓 Continuous Learning    → Every project teaches, every bug enlightens
-```
+**Current CGPA:** 9.59/10
 
 ---
 
-## 💡 The Philosophy Behind My Code
+## Technical Skills
 
-**I believe in:**
-- 🎯 **Purpose over Perfection** — Ship solutions that matter
-- 🌱 **Growth over Comfort** — Every challenge is a classroom
-- 🤝 **Impact over Impressions** — Code that changes lives
-- 🚀 **Action over Anxiety** — Build, fail, learn, repeat
+**Languages:** JavaScript (ES6+), Java, C, C++, Python, HTML5, CSS3
 
----
+**Frontend:** React.js, Tailwind CSS
 
-## 🛠️ My Arsenal
+**Backend:** Node.js, Express.js, Spring Boot
 
-<div align="center">
+**Database:** MongoDB, MySQL
 
-### **Frontend Magic** ✨
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Tools:** Git, GitHub, VS Code, Postman, Vercel, Render
 
-### **Backend Power** ⚡
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Core Competencies:** RESTful APIs, JWT Authentication, Responsive Design, Problem Solving
 
-### **Languages I Speak** 💬
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+### Tech Stack
 
-### **Tools of Trade** 🔧
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Projects That Matter
+## Featured Projects
 
-### 🏦 **eBachat Gat** — *Digitizing Trust*
-> **"Bringing India's 200-year-old savings tradition into the digital age"**
+### eBachat Gat
+**MERN Stack | Jan 2025 – Apr 2025**
 
-Imagine a system where your grandmother's *Bachat Gat* runs on React, not registers. That's what I built.
+A full-stack application digitizing India's traditional savings groups (Bachat Gats) with secure role-based dashboards for managing group finances.
 
-**The Impact:**
-- ⚡ 60% faster payments → More time for what matters
-- 📊 70% less paperwork → Trees saved, efficiency gained
-- 🔐 100% online management → Secure, transparent, accessible
+- Implemented role-based access control for Admin, President, Treasurer, Secretary, and Members
+- Integrated Cloudinary for document management and Razorpay for payment processing
+- Automated PDF report generation and meeting scheduling
+- Improved payment efficiency by 60% and reduced manual bookkeeping time by 70%
 
-**Tech:** MERN Stack • Cloudinary • Razorpay • JWT Authentication
+[View Project →](https://github.com/Shrushti58)
 
----
+### GramVartha
+**MERN Stack | Aug 2025 – Oct 2025**
 
-### 📰 **GramVartha** — *Voices from the Village*
-> **"Every village deserves to be heard"**
+A rural governance platform connecting citizens with their Gram Panchayat through verified digital notices and ward-specific updates.
 
-Built a platform where rural citizens aren't just spectators—they're participants in their own governance.
+- Built secure cookie-based authentication system
+- Developed responsive architecture with MongoDB, Express.js, React.js, and Node.js
+- Deployed on Vercel and Render with 99% uptime
+- Enhanced data privacy and reduced unauthorized access by 90%
 
-**The Impact:**
-- 🛡️ 90% reduction in unauthorized access → Democracy protected
-- ⚡ 40% performance boost → Fast enough for 2G networks
-- 📱 99% uptime → Reliable as the village banyan tree
+[View Project →](https://github.com/Shrushti58)
 
-**Tech:** MERN Stack • Cookie Auth • Real-time Updates • Responsive Design
+### CivicConnect
+**MERN Stack | Sept 2025 – Nov 2025**
 
----
+A civic issue reporting platform enabling citizens to report and track issues such as potholes, broken lights, and waste management.
 
-### 🏙️ **CivicConnect** — *Citizen Power Platform*
-> **"Your voice, their responsibility"**
+- Integrated real-time geolocation tagging and photo uploads
+- Built admin dashboard for authorities to manage and resolve issues
+- Implemented duplicate-report prevention using location-based detection
+- **Ranked Top 2 in Smart India Hackathon 2025 Internal Round**
 
-**🏆 Top 2 in Smart India Hackathon 2025 Internal Round**
-
-Citizens report, authorities respond. Simple concept. Powerful execution.
-
-**The Impact:**
-- 📍 85% reporting accuracy → Geolocation precision
-- ⏱️ 65% faster response → Problems solved, not postponed
-- 🎯 60% better data reliability → Duplicate prevention in action
-
-**Tech:** MERN Stack • Geolocation API • Image Uploads • Admin Dashboard
+[View Project →](https://github.com/Shrushti58)
 
 ---
 
-## 🏆 Victory Moments
+## Recognition
 
-<div align="center">
+**Rising Star Award** – Ideathon 4.0 (August 2025)  
+Selected from 60+ teams for innovative pitch and exceptional presentation
 
-| 🎖️ Achievement | 🎯 What It Means |
-|---------------|------------------|
-| **🌟 Rising Star Award** | Selected from 60+ teams at Ideathon 4.0 — Ideas that shine |
-| **🥈 2nd Rank Avishkar** | Solo warrior in a team sport — Proved myself worthy |
-| **🚀 SIH Top 2 Team** | Collaboration meets innovation — Future looks bright |
-| **📚 9.59 CGPA** | Not just grades — Proof of dedication |
+**2nd Rank** – Avishkar Project Competition, College Level (October 2025)  
+Solo achievement; selected to represent college at SPPU Zonal Level Research Festival
 
-</div>
+**Top 2 Team** – Smart India Hackathon Internal Round (September 2025)  
+Recognized for innovative problem-solving and project execution
 
 ---
 
-## 📈 The Numbers Speak
+## Education
 
-<div align="center">
+**Bachelor of Engineering in Computer Engineering**  
+Dr. D. Y. Patil College of Engineering, Akurdi | 2024 – 2027  
+Current CGPA: 9.59/10
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrushti58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shrushti58&theme=tokyonight&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-</div>
+**Diploma in Computer Engineering**  
+Rajarambapu Institute of Technology, Islampur | 2021 – 2024  
+Percentage: 93.60%
 
 ---
 
-## 🌱 Currently Cultivating
+## GitHub Stats
 
-```yaml
-Learning:
-  - Advanced React Patterns & Performance Optimization
-  - System Design for Scalable Applications
-  - Open Source Contribution Best Practices
+![Shrushti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrushti58&show_icons=true&theme=default&hide_border=true)
 
-Building:
-  - Solutions that matter to real people
-  - Skills that open doors to opportunities
-  - A portfolio that tells a story
-
-Preparing:
-  - For placement season with confidence
-  - To contribute to impactful projects
-  - To become a full-stack force to reckon with
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti58&layout=compact&theme=default&hide_border=true)
 
 ---
 
-## 💭 My Development Mantra
+## Connect
 
-<div align="center">
-
-```
-function myApproach() {
-    while (alive) {
-        eat();
-        sleep();
-        code();
-        repeat();
-        
-        if (stuck) {
-            debug();
-            learn();
-            improve();
-        }
-        
-        if (successful) {
-            celebrate();
-            shareKnowledge();
-            aimHigher();
-        }
-    }
-}
-```
-
-</div>
-
----
-
-## 🤝 Let's Build Something Amazing
-
-**I'm always open to:**
-- 🚀 Collaborating on impactful projects
-- 💡 Discussing innovative ideas
-- 🎓 Sharing knowledge and experiences
-- 🌟 Opportunities that challenge and grow me
-
-<div align="center">
-
-### 📬 Reach Out!
-
-**Because great things happen when great minds connect**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrushtipatil58)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrushtipatil0508@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrushti58)
-
----
-
-### ⭐ *"Code is poetry written in logic"*
-
-**Thanks for stopping by! Now let's turn your ⭐ into collaboration! 🚀**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shrushti58&color=F85D7F&style=for-the-badge)
-
-</div>
+[LinkedIn](https://linkedin.com/in/shrushtipatil58) • [GitHub](https://github.com/Shrushti58) • [Email](mailto:shrushtipatil0508@gmail.com)
