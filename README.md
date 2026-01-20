@@ -2,9 +2,9 @@
 
 **Computer Engineering Student | Full-Stack Developer | Problem Solver**
 
-🌍 Based in Pune, Maharashtra  
-🎓 Pursuing BE in Computer Engineering at Dr. D. Y. Patil College of Engineering, Akurdi (CGPA: 9.59/10)  
-💻 Passionate about building impactful full-stack applications using the MERN stack  
+Based in Pune, Maharashtra  
+Pursuing BE in Computer Engineering at Dr. D. Y. Patil College of Engineering, Akurdi 
+Passionate about building impactful full-stack applications using the MERN stack  
 
 ---
 
