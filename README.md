@@ -1,104 +1,97 @@
-# 👋 Hi, I'm Shrushti Patil
+<div align="center">
 
-**Computer Engineering Student | Full-Stack Developer | Problem Solver**
+# Shrushti Patil
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Full-Stack+MERN+Developer;Building+Civic+Tech+for+Rural+India" alt="Typing SVG" />
 
-## 🛠️ Technical Skills
+<p>
+  <a href="https://linkedin.com/in/shrushtipatil58"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Shrushti58"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:shrushtipatil0508@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### [eBachatGat](https://github.com/Shrushti58/eBachatGat) | MERN Stack
-**Jan 2025 - Apr 2025**
-- Digitized India's traditional savings groups (Bachat Gats) with secure role-based dashboards for Admin, President, Treasurer, Secretary, and Members
-- Integrated Cloudinary for document uploads and Razorpay (test mode) for digital payments, improving payment efficiency by **60%**
-- Automated PDF report generation and meeting scheduling, reducing manual bookkeeping time by **70%**
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+Computer Engineering student at D. Y. Patil College of Engineering, Akurdi (SPPU), CGPA 9.46/10. Full-stack developer building MERN and React Native applications, with a focus on civic technology and rural governance systems. Currently developing GramVartha, a digital platform connecting Gram Panchayats with citizens through AI-assisted complaint verification and scheme discovery.
 
-### [GramVartha](https://github.com/Shrushti58/GramVartha) | MERN Stack  
-**Aug 2025 - Oct 2025**
-- Rural governance and news platform connecting citizens with their Gram Panchayat through verified digital notices
-- Built secure, cookie-based authentication for Admins and Officials, enhancing data privacy and reducing unauthorized access by **90%**
-- Implemented responsive MERN architecture, improving frontend-backend performance by **40%**
-- Deployed on Vercel (frontend) and Render (backend) ensuring **99%** uptime
-- **Tech Stack:** MERN Stack, JWT Authentication, Responsive Design
-
-### [CivicConnect](https://github.com/adityaborhade18/SIH_Project) | MERN Stack
-**Sept 2025 - Nov 2025**
-- Full-stack web platform enabling citizens to report and track civic issues (potholes, broken lights, waste management)
-- Integrated real-time geolocation tagging, photo uploads, and issue categorization, improving reporting accuracy by **85%**
-- Admin dashboard for authorities to view, route, and resolve issues, reducing response time by **65%**
-- Implemented duplicate-report prevention using location-based detection
-- **🏆 Ranked among Top 2 projects** in SIH 2025 Internal Hackathon
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Geolocation API
+Freelance web developer for local businesses, and IQAC Coordinator supporting ISO certification and NBA accreditation processes at the college level.
 
 ---
 
-## 🏆 Achievements
+## Technical Skills
 
-| Award | Date | Organization |
-|-------|------|--------------|
-| 🏅 **Rising Star Award** - Ideathon 4.0 | Aug 2025 | Rajarambapu Institute of Technology & NRiT TBI |
-| 🥈 **2nd Rank** - Avishkar Project Competition (College Level) | Oct 2025 | Savitribai Phule Pune University |
-| 🏆 **Top 2** - Smart India Hackathon (Internal Round) | Sept 2025 | Team Ignition |
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel,render&theme=dark" />
+</div>
 
----
-
-## 📊 GitHub Stats
-
-![Shrushti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrushti58&show_icons=true&theme=radical&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti58&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shrushti58&theme=radical&hide_border=true)
+**Languages:** JavaScript (ES6+), C, C++, HTML5, CSS3
+**Frontend:** React.js, React Native (Expo), Tailwind CSS
+**Backend:** Node.js, Express.js, JWT Authentication
+**Database:** MongoDB, MySQL
+**Tools:** Git, GitHub, VS Code, Postman, Vercel, Render, Cloudinary, Razorpay
 
 ---
 
-## 📫 Let's Connect!
+## Experience
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrushtipatil58)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Shrushti58)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:shrushtipatil0508@gmail.com)
+**Freelance Web Developer** — Bhagyashree Earthmovers & Sushiraj Enterprises · 2026 – Present
+Built catalog and inquiry websites for two businesses using React.js and Tailwind CSS, including an admin panel for managing listings and customer inquiries, deployed on Vercel and Render.
 
-
----
-
-
-### 💼 Looking For
-- Internship opportunities in Full-Stack Development
-- Collaborative projects with social impact
-- Open Source contributions
+**IQAC Coordinator, Student Council** — D. Y. Patil College of Engineering, Akurdi · 2025 – 2026
+Coordinated data collection and audit support across departments for the college's ISO certification process, and assisted in compiling NBA accreditation documentation.
 
 ---
 
-⭐ *"Building technology that creates social impact, one project at a time."*
+## Projects
 
-⚡ **Fun Fact:** I love building applications that solve real-world problems in Indian communities!
+**GramVartha** — React Native (Expo), Node.js, MongoDB, Gemini API · Oct 2025 – March 2026 · Live
+Digital governance platform connecting Gram Panchayats with citizens for notices, complaints, and government scheme access. Built a complaint verification pipeline combining Google Vision label extraction with Gemini contextual analysis to score complaint authenticity for officials. Built a scheme-recommendation assistant that retrieves village-specific data and uses Gemini to answer citizen eligibility questions in natural language. Implemented offline-first QR notice access, caching village notices locally on a single scan.
+[View on GitHub](https://github.com/Shrushti58/GramVartha)
+
+**eBachat Gat** — MERN Stack · Jan 2025 – Apr 2025 · Live
+Digital platform for Bachat Gats (community self-help savings groups) to manage savings, loans, and meetings. Built a two-stage loan workflow with President approval and Treasurer disbursement, configurable interest rates, automated PDF financial statements via PDFKit, and Razorpay-integrated contributions with FullCalendar-based meeting scheduling.
+[View on GitHub](https://github.com/Shrushti58/eBachatGat)
+
+**CivicConnect** — MERN Stack · Sept 2025 – Nov 2025
+Platform enabling citizens to report and track civic issues such as potholes, broken lights, and waste management, with real-time geolocation tagging, photo uploads, and duplicate-report prevention. Ranked among the top two projects in the SIH 2025 Internal Hackathon.
+[View on GitHub](https://github.com/adityaborhade18/SIH_Project)
+
+---
+
+## Achievements
+
+| Award | Organization | Date |
+|---|---|---|
+| Best Innovation Software Award, Logica 5.0 | JSPM's Rajarshi Shahu College of Engineering, Tathawade | Apr 2026 |
+| Rising Star Award, Ideathon 5.0 | Rajarambapu Institute of Technology, Islampur | Aug 2025 |
+| 2nd Place, Avishkar Research Project Competition (qualified for SPPU Zonal Round) | Savitribai Phule Pune University | Oct 2025 |
+| 2nd Place, Smart India Hackathon (Internal Round), Team Ignition | — | Sept 2025 |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shrushti58&show_icons=true&theme=radical&count_private=true&hide_border=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti58&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" />
+
+<img src="https://streak-stats.demolab.com/?user=Shrushti58&theme=radical&hide_border=true" width="70%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrushti58&theme=react-dark&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Open To
+
+Internship and Trainee opportunities in Full-Stack and Software Engineering · Projects with social impact · Open source collaboration
+
+</div>
